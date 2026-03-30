@@ -1,17 +1,27 @@
 This repository contains my day-by-day AIML learning projects.
-🤖 AIML Journey
+
+🤖 AIML Journey 
+
 About
+
 My day-by-day Machine Learning journey from basic Python to ML engineer!
 
 Duration: 2 months and counting! Status: Active 🟢
 
 🛠️ Skills Learned
+
 Python, NumPy, Pandas
+
 Matplotlib, Seaborn
+
 Machine Learning (Scikit-learn)
+
 Statistics & Mathematics
+
 Git & GitHub
+
 📁 Projects
+
 Month 1 — Data Science Foundations
 Project	Description
 iris_eda.ipynb	Complete EDA on Iris dataset
